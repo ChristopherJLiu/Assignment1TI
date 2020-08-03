@@ -1,0 +1,24 @@
+-------------Ficheiro:data\landscape.bmp-------------
+Entropia:7.606914
+Huffman = 7.629301e+00
+Entropia com combinações = 6.277266
+
+-------------Ficheiro:data\MRI.bmp-------------
+Entropia:6.860542
+Huffman = 6.890996e+00
+Entropia com combinações = 5.226929
+
+-------------Ficheiro:data\MRIbin.bmp-------------
+Entropia:0.661080
+Huffman = 1
+Entropia com combinações = 0.400694
+
+-------------Ficheiro:data\soundMono.wav-------------
+Entropia:4.065729
+Huffman = 4.110714e+00
+Entropia com combinações = 3.310798
+
+-------------Ficheiro:data\lyrics.txt-------------
+Entropia:4.410705
+Huffman = 4.443487e+00
+Entropia com combinações = 3.652180
